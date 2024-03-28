@@ -65,14 +65,22 @@ npm run dev
 
 ## Deployment
 
+### Run the unit tests
+
+```bash
+npm run test
+```
+
 ### Compiles and minifies for production
 
 ```bash
 npm run build
 ```
 
-### Run the unit tests
+### Run the build
 
 ```bash
-npm run test
+npm run start
 ```
+
+
