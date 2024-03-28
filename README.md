@@ -8,6 +8,8 @@ This sample demonstrates the following use cases:
 - [Logout](https://github.com/auth0-samples/auth0-nextjs-samples/blob/main/Sample-01/components/NavBar.jsx#L93-L95)
 - [Showing the user profile](https://github.com/auth0-samples/auth0-nextjs-samples/blob/main/Sample-01/pages/profile.jsx)
 
+check the project live at [https://auth0kvora125.netlify.app/](https://auth0kvora125.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/74044ad7-776b-4b5b-b63c-27689c41daff/deploy-status)](https://app.netlify.com/sites/auth0kvora125/deploys)
+
 ## Project setup
 
 Use `npm` to install the project dependencies:
