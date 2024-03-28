@@ -30,7 +30,7 @@ If you do not wish to use an API or observe the API call working, you should not
 
 The project needs to be configured with your Auth0 Domain, Client ID and Client Secret for the authentication flow to work.
 
-To do this, first copy `.env.local.example` into a new file in the same folder called `.env.local`, and replace the values with your own Auth0 application credentials (see more info about [loading environmental variables in Next.js](https://nextjs.org/docs/basic-features/environment-variables)):
+To do this, first copy below code into a new file in the root folder called `.env.local`, and replace the values with your own Auth0 application credentials (see more info about [loading environmental variables in Next.js](https://nextjs.org/docs/basic-features/environment-variables)):
 
 ```sh
 # A long secret value used to encrypt the session cookie
