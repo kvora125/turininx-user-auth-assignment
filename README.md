@@ -71,10 +71,6 @@ npm run dev
 npm run build
 ```
 
-### Docker build
-
-To build and run the Docker image, run `exec.sh`, or `exec.ps1` on Windows.
-
 ### Run the unit tests
 
 ```bash
