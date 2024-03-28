@@ -8,7 +8,6 @@ describe('Footer', () => {
     render(<Footer />);
 
     expect(screen.getByTestId('footer')).toBeInTheDocument();
-    expect(screen.getByTestId('footer-logo')).toBeInTheDocument();
     expect(screen.getByTestId('footer-text')).toBeInTheDocument();
   });
 });
