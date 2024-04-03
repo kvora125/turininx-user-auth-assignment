@@ -57,7 +57,7 @@ AUTH0_SCOPE='openid profile email read:shows'
 
 ### Compile and hot-reload for development
 
-This compiles and serves the Next.js app and starts the API server on port 3001.
+This compiles and serves the Next.js app and starts the API server on port 3000.
 
 ```bash
 npm run dev
